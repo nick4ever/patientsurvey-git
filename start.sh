@@ -2,7 +2,7 @@ BASE_LOCATION=/opt/joystick/patientsurvey-git
 BRANCH=trangvinh
 
 cd $BASE_LOCATION
-
+
 git reset --hard origin/$BRANCH
 git checkout $BRANCH
 git pull
