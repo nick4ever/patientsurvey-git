@@ -5,6 +5,8 @@ BRANCH=trangvinh
 
 cd $BASE_LOCATION
 
+sleep 30
+
 git reset --hard origin/$BRANCH
 git checkout $BRANCH
 git pull
