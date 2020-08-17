@@ -1,3 +1,5 @@
+#!/bin/sh 
+
 BASE_LOCATION=/opt/joystick/patientsurvey-git
 BRANCH=trangvinh
 
